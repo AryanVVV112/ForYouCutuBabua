@@ -41,7 +41,6 @@ export default function Page() {
         rel="noopener noreferrer"
         className="github-link"
       >
-        Visit Source Code on GitHub
       </a>
       <div className="valentine-container">
         {yesPressed ? (
